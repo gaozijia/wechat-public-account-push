@@ -1,27 +1,27 @@
 export const config = {
     // 公众号配置
     // 公众号appId
-    appId: "wx4451faf3445e7dd6",
+    appId: "wxe6e0558a2a9a40ae",
     // 公众号appSecret
-    appSecret: "2c169bac706ab5b7b555e822f2509645",
+    appSecret: "d2Dd3VgpVm0EjhhbZf1LQFBRXCmQYPdon3GlYiakDH8",
     // 模板消息id
-    templateId: "X8QQg2Pv8bWqEAai8TTOx5C8DGFTaT0XsPVA2juCkeQ",
+    templateId: "o237a6c0DonWaEyKf-xkOSmbTbUo",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    user: ["oKA-a6PnjC3PsbQPfGP1rW2Txqmk"],
+    user: ["o237a6c0DonWaEyKf-xkOSmbTbUo"],
      
     // 信息配置
-    ewai: "   ",
+    ewai: "  ",
     // 所在省份
-    province: "吐鲁番",
+    province: "河北",
     // 所在城市
-    city: "吐鲁番",
+    city: "保定",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "曾曾", "year": "1998", "date": "06-02", "type": 'new'},
-      {"name": "哥哥", "year": "1996", "date": "01-07", "type": 'new'},
+      {"name": "李太阳", "year": "1998", "date": "08-25", "r": 'new'},
+   
     ],
     // 在一起的日子，格式同上
-    loveDate: "2016-11-05",
+    loveDate: "2020-06-01",
     // 结婚纪念日
     
     }
